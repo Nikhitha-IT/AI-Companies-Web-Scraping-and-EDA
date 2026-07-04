@@ -243,7 +243,7 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Nikhitha B**
+**Nikhitha Boda**
 
 **Data Analyst Trainee** at **Innomatics Research Labs**
 
