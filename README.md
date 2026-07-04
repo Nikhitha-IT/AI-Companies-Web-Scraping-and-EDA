@@ -240,7 +240,21 @@ Launch Jupyter Notebook
 jupyter notebook
 ```
 ---
+## 💼 Skills Demonstrated
 
+- Python
+- Web Scraping
+- BeautifulSoup
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Matplotlib
+- Seaborn
+- Git
+- GitHub
+
+---
 ## 👩‍💻 Author
 
 **Nikhitha Boda**
