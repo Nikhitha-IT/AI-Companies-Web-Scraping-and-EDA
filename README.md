@@ -204,8 +204,8 @@ AI-Companies-Web-Scraping-and-EDA
 ├── requirements.txt
 ├── LICENSE
 ├── Web_Scraping_AI_Companies.ipynb
-├── raw_ai_companies.csv
-├── cleaned_ai_companies.csv
+├── raw_ai_companies.xls
+├── cleaned_ai_companies.xls
 ├── images
 │   ├── country_distribution.png
 │   ├── industry_distribution.png
