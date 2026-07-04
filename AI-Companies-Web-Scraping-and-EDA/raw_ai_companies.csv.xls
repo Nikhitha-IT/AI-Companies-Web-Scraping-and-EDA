@@ -1,0 +1,51 @@
+Company Name,Country,Valuation,AI Native,Profitable,Industry,Money Raised,Featured AI,Models
+Anthropic,🇺🇸US,$965B,Yes,No,Artificial Intelligence,$156.61B,Claude,"Claude Sonnet 5, Claude Mythos 5, Claude Fable 5"
+OpenAI,🇺🇸US,$852BAI,Yes,No,Artificial Intelligence,$464.33B,ChatGPT,"GPT 5.6 Terra, GPT 5.6 Luna, GPT 5.6 Sol"
+xAI,🇺🇸US,$250BAI,Yes,No,Artificial Intelligence,$50.33B,Grok,"Grok Imagine Video 1.5, Grok Build 0.1, Grok 4.3"
+Z.ai,🇨🇳CN,$91.40BAI,Yes,No,Artificial Intelligence,$1.02B,Z.ai,"GLM 5.2, GLM 5.1, GLM 5V Turbo"
+Anduril,🇺🇸US,$61BAI,Yes,N/A,Aerospace Technology,$7.50B,Not Available,
+Anysphere,🇺🇸US,$60B,Yes,No,Artificial Intelligence,$8.53B,Cursor,"Composer 2.5, Composer 2, Composer 1"
+Cerebras,🇺🇸US,$51.94BAI,Yes,No,Computer Hardware Manufacturing,$8.75B,Not Available,"Cerebras 8B, Cerebras 70B"
+DeepSeek,🇨🇳CN,$50BAI,Yes,No,Artificial Intelligence,$11.20B,DeepSeek,"DeepSeek V4 Flash, Deepseek V4 Pro, DeepSeek OCR 2"
+Project Prometheus,🇺🇸US,$41B,Yes,N/A,Artificial Intelligence,$18.20B,Not Available,
+Figure AI,🇺🇸US,$39BAI,Yes,No,Robotics Engineering,$1.85B,Figure,
+MiniMax,🇨🇳CN,$32B,Yes,No,Artificial Intelligence,$1.23B,Hailuo AI,"MiniMax M3, MiniMax M2.7, MiniMax Music 2.5 Plus"
+Vast Data,🇺🇸US,$30BAI,Yes,N/A,Data Infrastructure and Analytics,$1B,Not Available,
+Scale AI,🇺🇸US,$29BAI,Yes,No,Artificial Intelligence,$15.90B,Donovan,
+Galaxea Dynamics,🇨🇳CN,$29BAI,Yes,N/A,Robotics Engineering,—,Not Available,
+iFLYTEK,🇨🇳CN,$28.15BAI,Yes,Yes,Artificial Intelligence,—,Not Available,
+Mistral AI,🇫🇷FR,$23BAI,Yes,No,Artificial Intelligence,$3.64B,Mistral AI,"Mistral OCR 4, Mistral Medium 3.5, Voxtral TTS"
+Perplexity,🇺🇸US,$22.60BAI,Yes,No,Artificial Intelligence,$2.07B,Perplexity,"Pplx Embed, pplx embed v1 4b, pplx embed v1 0.6b"
+Moonshot AI,🇨🇳CN,$20B,Yes,No,Artificial Intelligence,$5.20B,Kimi AI,"Kimi K2.7 Code, Kimi K2.6, Kimi K2.5"
+Isomorphic Labs,🇬🇧GB,$17.50B,Yes,N/A,Biotechnology,$2.70B,Not Available,
+Sierra Technologies,🇺🇸US,$15.80BAI,Yes,Yes,Software Development,$1.94B,Sierra,
+Fireworks AI,🇺🇸US,$15BAI,Yes,No,Artificial Intelligence,$327M,Fireworks.ai,
+Applied Intuition,🇺🇸US,$15B,Yes,N/A,Artificial Intelligence,$600M,Not Available,
+Skild AI,🇺🇸US,$14B,Yes,N/A,Robotics Engineering,$1.40B,Not Available,
+Helsing,🇩🇪DE,$14B,Yes,N/A,Aerospace Technology,$1.89B,Not Available,
+OpenEvidence,🇺🇸US,$12BAI,Yes,No,Hospitals and Health Care,$740M,OpenEvidence,
+Thinking Machines Lab,🇺🇸US,$12B,Yes,No,Research,$4B,Thinking Machines Tinker,
+BASETEN LABS,🇺🇸US,$11BAI,Yes,No,Artificial Intelligence,$300M,Baseten,
+Eleven Labs,🇺🇸US,$11BAI,Yes,No,Artificial Intelligence,$1.61B,ElevenLabs,"Music v2, Scribe v2 Realtime, Eleven v3 alpha"
+Harvey AI,🇺🇸US,$11BAI,Yes,No,Artificial Intelligence,$2.19B,Harvey,
+Physical Intelligence,🇺🇸US,$11BAI,Yes,No,Artificial Intelligence,$3.07B,Not Available,"Pi 0.7, GigaBrain 0.5M"
+Lila Sciences,🇺🇸US,$10.50BAI,Yes,N/A,Research,$785M,Not Available,
+Horizon Robotics,🇨🇳CN,$10.36BAI,Yes,No,Computer Hardware Manufacturing,—,Not Available,
+Cognition AI,🇺🇸US,$10.20B,Yes,No,Artificial Intelligence,$796M,Codeium,"Windsurf 2.0, SWE 1.6, Devin 2.2"
+StepFun,🇨🇳CN,$10BAI,Yes,No,Artificial Intelligence,—,Not Available,"Step Image Edit 2, StepAudio 2.5 TTS, ACE-Step 1.5 XL (4B DiT)"
+Crusoe,🇺🇸US,$10B,Yes,N/A,Data Infrastructure and Analytics,$1.38B,Not Available,
+Mercor,🇺🇸US,$10B,Yes,N/A,Staffing and Recruiting,$350M,Not Available,
+Saronic Technologies,🇺🇸US,$9.25B,Yes,N/A,Aerospace Technology,$2.35B,Not Available,
+Tempus Labs,🇺🇸US,$9BAI,Yes,No,Biotechnology,$1.05B,Tempus,
+Cyera,🇺🇸US,$9B,Yes,N/A,Cybersecurity,$400M,Not Available,
+SenseTime,🇭🇰HK,$8.94B,Yes,No,Artificial Intelligence,—,Not Available,"SenseNova U1 8B MoT, SenseNova Unified Large Model"
+Features and Labels,🇺🇸US,$8BAI,Yes,No,Artificial Intelligence,$337M,fal,PATINA
+Armis,🇺🇸US,$7.75BAI,Yes,N/A,Cybersecurity,$435M,Not Available,
+AlphaSense,🇺🇸US,$7.50BAI,Yes,No,Financial,$1.39B,AlphaSense,
+UBTECH Robotics,🇨🇳CN,$7.30BAI,Yes,No,Robotics Engineering,$940M,UBTECH Walker S2,
+GONG.IO,🇺🇸US,$7.25BAI,Yes,No,Financial,$581M,Gong Engage,
+Glean Technologies,🇺🇸US,$7.20B,Yes,No,Data Infrastructure and Analytics,$915M,Glean,
+Cohere,🇨🇦CA,$7BAI,Yes,No,Artificial Intelligence,$2.74B,Coral,"North Mini Code 1.0, Command A+ W4A4, Cohere Transcribe"
+Hugging Face,🇺🇸US,$7BAI,Yes,No,Software Development,$395.20M,Gradio,"Carbon-8B, nanowhale"
+Groq,🇺🇸US,$6.90B,Yes,No,Computer Hardware Manufacturing,$1.77B,Not Available,"Groq Llama, Groq Gemma"
+Lovable Labs,🇸🇪SE,$6.60BAI,Yes,No,Software Development,$1.07B,Lovable,
